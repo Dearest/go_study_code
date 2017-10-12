@@ -1,0 +1,387 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"f",
+				"format"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Golang Build/Go.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					""
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Install"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Cross-Compile (Interactive)"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/GoSublime/GoSublime.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Golang Build/Go.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Python 3/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python 3/Python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "Run",
+	"command_palette":
+	{
+		"height": 382.0,
+		"last_filter": "go e",
+		"selected_items":
+		[
+			[
+				"go e",
+				"GoSublime: Show errors"
+			],
+			[
+				"gos fmt",
+				"GoSublime: Fmt and save as ..."
+			],
+			[
+				"gos",
+				"GoSublime: Show errors"
+			],
+			[
+				"gof",
+				"GoSublime: Fmt and save"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"proj",
+				"Project Manager"
+			],
+			[
+				"ss py",
+				"Set Syntax: Python3"
+			],
+			[
+				"python",
+				"Set Syntax: Python3"
+			],
+			[
+				"in",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pythone",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"py",
+				"Set Syntax: Python3"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"rail",
+				"Set Syntax: Ruby on Rails"
+			]
+		],
+		"width": 587.0
+	},
+	"console":
+	{
+		"height": 290.0,
+		"history":
+		[
+			"ls",
+			"python -u \"D:\\Projects\\Python\\MinutesToHours.py\" 80",
+			"ruby",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/GoglandProjects/study project/if_else.go",
+		"/D/GoglandProjects/study project/for.go",
+		"/D/GoglandProjects/study project/swith.go",
+		"/C/Users/zhoujiacheng/AppData/Roaming/Sublime Text 3/Packages/User/golang.sublime-settings",
+		"/C/Users/zhoujiacheng/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/D/速递易/黎显图_速递易_停车费计算题/sudiyi/valid/valid_hour.go",
+		"/D/Game/steam/config/config.vdf",
+		"/C/Users/zhoujiacheng/Documents/proxifier.ppx",
+		"/D/速递易/黎显图_速递易_停车费计算题/sudiyi/parking_fee_calculator.go",
+		"/C/Users/zhoujiacheng/.docker/machine/machines/default/id_rsa.pub",
+		"/D/Game/steam/config/loginusers.vdf",
+		"/D/Game/steam/config/filterlist.vdf",
+		"/D/Game/steam/config/DialogConfig.vdf",
+		"/D/Game/steam/config/coplay_76561198128757171.vdf",
+		"/D/视频/shkd-744.HD/shkd-774.srt",
+		"/D/视频/shkd-744.HD/shkd-744.HD.XLSub.srt",
+		"/D/software/OneQuick.v0.3.1/OneQuick.Ext.ahk",
+		"/D/software/OneQuick.v0.3.1/OneQuick.feature.yaml",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/Projects/Python/MinutesToHours.py",
+		"/D/software/OneQuick.v0.3.1/config.ini",
+		"/D/Projects/myhubot/scripts/calculate.coffee",
+		"/D/Projects/myhubot/scripts/catchAll.coffee",
+		"/D/Projects/myhubot/package.json",
+		"/D/Projects/myhubot/node_modules/hubot-weixin/config.yaml",
+		"/D/Projects/myhubot/external-scripts.json",
+		"/D/Projects/myhubot/scripts/joke.coffee",
+		"/D/hexo/source/_posts/一键脚本安装shadowsocks.md",
+		"/D/Projects/myhubot/node_modules/hubot-weixin/README-zh.md",
+		"/D/Projects/myhubot/node_modules/hubot-wechat/config.yaml",
+		"/D/Projects/myhubot/config.yaml",
+		"/D/Projects/myhubot/scripts/turingRobot.coffee",
+		"/D/Projects/myhubot/node_modules/hubot-wechat/package.json",
+		"/D/Projects/myhubot/node_modules/hubot-wechat/src/wechat.coffee",
+		"/D/迅雷下载/UTC--2017-07-06T09-02-00.856Z--1088485f8ac14f8c643a5130f1598ca8f379f695",
+		"/D/Projects/Python/get_digits.py",
+		"/D/速递易/need_send_delivery_coupons7.3.CSV",
+		"/C/Users/zhoujiacheng/Desktop/【网易严选】Hi，hanchen，你购买的全棉超柔无捻干发帽等商品已经出发了，请耐心等待哦.eml",
+		"/D/Projects/ruby/冒泡排序.rb",
+		"/D/Projects/Python/bubble_sort.py",
+		"/D/software/shadowsocks-win-2.3/Shadowsocks-4.0.4/gui-config.json",
+		"/D/software/shadowsocks-win-2.3/gui-config.json",
+		"/D/hexo/_config.yml",
+		"/D/Projects/Python/students.py",
+		"/D/Projects/Python/乘法表.py",
+		"/D/Projects/Python/examples/test_build.py",
+		"/D/Projects/Python/examples/test_ruby.rb",
+		"/D/Projects/Python/jiepai.py",
+		"/D/hexo/source/_posts/Ruby中Include，Extend，Prepand,Load，Require的区别.md",
+		"/D/hexo/source/_posts/子查询.md",
+		"/D/hexo/themes/yilia/_config.yml",
+		"/D/hexo/source/_posts/python3-circlearea.md",
+		"/D/Projects/suishou/test.html",
+		"/D/hexo/public/test.html",
+		"/C/Users/zhoujiacheng/Documents/Tencent Files/228755797/FileRecv/main.jsp",
+		"/D/Game/爱游戏PVE按键/爱游戏PVE按键/脚本/霸刀/霸刀PVE全自动切刀副本打怪宏.h",
+		"/D/hexo/.deploy_git/.git/config",
+		"/C/Users/zhoujiacheng/Downloads/2017-5-22-哈咩呱按键/哈咩呱按键/后台鼠标钓鱼.q",
+		"/C/Users/zhoujiacheng/Documents/Tencent Files/228755797/FileRecv/RedBean_PlusV0.7(解压密码666)/RedBean_Plus.exe.config",
+		"/C/Users/zhoujiacheng/Downloads/值守App新加数据.sql",
+		"/C/Users/zhoujiacheng/Downloads/值守App新加数据(1).sql",
+		"/C/dcwljx3/默认配置.dmg",
+		"/D/迅雷下载/懒人王剑3后台挂机多开版1.3_20151272127.Q",
+		"/C/Users/zhoujiacheng/Downloads/剑网叁抓马辅助完美版/剑网叁抓马辅助完美版.txt",
+		"/C/Users/zhoujiacheng/Downloads/剑网叁抓马辅助完美版/剑网叁抓马辅助完美版.exe",
+		"/C/Users/zhoujiacheng/Documents/Tencent Files/228755797/FileRecv/RedBean_PlusV0.7(解压密码666)/SoftXLic.dll",
+		"/C/Users/zhoujiacheng/Documents/Tencent Files/228755797/FileRecv/RedBean_PlusV0.7(解压密码666)/Loader.lib"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 169.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\t\t\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 225.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.golang_build":
+	{
+		"height": 396.0
+	},
+	"pinned_build_system": "",
+	"project": "go_study.sublime-project",
+	"replace":
+	{
+		"height": 59.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\GoglandProjects\\study project\\go_study.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 446.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 554.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
