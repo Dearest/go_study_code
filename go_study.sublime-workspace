@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"Pr",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"mian",
+				"func main\tfunc main {...} ʂ"
+			],
+			[
 				"try",
 				"try\tTry/Except"
 			],
@@ -15,6 +23,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "closure.go",
+			"settings":
+			{
+				"buffer_size": 266,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "recursion.go",
+			"settings":
+			{
+				"buffer_size": 142,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "Packages/Golang Build/Go.sublime-build",
 	"build_system_choices":
@@ -92,13 +118,17 @@
 			]
 		]
 	],
-	"build_varint": "Run",
+	"build_varint": "",
 	"command_palette":
 	{
-		"height": 382.0,
-		"last_filter": "go e",
+		"height": 446.0,
+		"last_filter": "ss g",
 		"selected_items":
 		[
+			[
+				"ss g",
+				"Set Syntax: Go"
+			],
 			[
 				"go e",
 				"GoSublime: Show errors"
@@ -156,7 +186,7 @@
 				"Set Syntax: Ruby on Rails"
 			]
 		],
-		"width": 587.0
+		"width": 631.0
 	},
 	"console":
 	{
@@ -180,12 +210,19 @@
 	},
 	"expanded_folders":
 	[
+		"/D/GoglandProjects/study project"
 	],
 	"file_history":
 	[
+		"/D/GoglandProjects/study project/slice.go",
+		"/D/GoglandProjects/study project/array.go",
+		"/D/迅雷下载/shadowsocksr-manyuser/shadowsocksr-manyuser/shadowsocks/daemon.py",
+		"/D/迅雷下载/shadowsocksr-manyuser/shadowsocksr-manyuser/shadowsocks/server.py",
+		"/C/Users/zhoujiacheng/AppData/Roaming/Typora/typora.log",
+		"/D/GoglandProjects/study project/swith.go",
+		"/D/GoglandProjects/study project/go_study.sublime-project",
 		"/D/GoglandProjects/study project/if_else.go",
 		"/D/GoglandProjects/study project/for.go",
-		"/D/GoglandProjects/study project/swith.go",
 		"/C/Users/zhoujiacheng/AppData/Roaming/Sublime Text 3/Packages/User/golang.sublime-settings",
 		"/C/Users/zhoujiacheng/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
 		"/D/速递易/黎显图_速递易_停车费计算题/sudiyi/valid/valid_hour.go",
@@ -285,8 +322,67 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "closure.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "recursion.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
